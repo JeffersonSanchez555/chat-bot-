@@ -1,0 +1,10 @@
+el aprendiz estudia programacion
+el aprendiz desarrolla software
+el aprendiz programa en python
+el estudiante desarrolla aplicaciones
+el estudiante aprende inteligencia artificial
+el programador desarrolla software
+python permite crear aplicaciones
+flask permite crear apis
+react permite crear interfaces
+msql permite almacenar datos
